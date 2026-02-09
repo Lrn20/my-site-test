@@ -84,3 +84,40 @@ This material was developed by the RCDS team at ECRI.
 <!-- Images are similar but begin with an exclamation point ![ALT TEXT](URL) -->
 
 ![ECRI logo](docs/assets/ecri-banner.png)
+
+<table>
+<thead>
+<tr>
+<th>badammmm</th>
+<th>bim</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>baz</td>
+<td>bim</td>
+</tr>
+</tbody>
+</table>
+
+$$
+\frac{1}{2}
+$$ 
+
+| foo | bar |
+| --- | --- |
+| baz | bim |
+
+| foo | bar |
+| baz | bim |
+
+| abc | defghi |
+:-: | -----------:
+bar | baz
+
+| f\|oo  |
+| ------ |
+| b `\|` az |
+| b **\|** im |
+
+
